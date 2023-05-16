@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79e93d3e.css",
+    "main.js": "/static/js/main.cf613888.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/home_page_img.png": "/static/media/home_page_img.901426f541db91e9785f.png",
+    "static/media/Harsh_Sojitra_Resume.pdf": "/static/media/Harsh_Sojitra_Resume.1c74ac70745e202632d8.pdf",
+    "static/media/about_img.jpg": "/static/media/about_img.68405dec1f420e10166c.jpg",
+    "static/media/redux__logo.png": "/static/media/redux__logo.87f74e7c62edbc87e0cb.png",
+    "static/media/nodejs__logo.png": "/static/media/nodejs__logo.78d16e70f24021986888.png",
+    "static/media/js__logo.png": "/static/media/js__logo.8060536da50f923e6ddd.png",
+    "static/media/html__logo.png": "/static/media/html__logo.49b9e8bea30c6474104b.png",
+    "static/media/mui__logo.png": "/static/media/mui__logo.766fa20793c000718444.png",
+    "static/media/react__logo.png": "/static/media/react__logo.c6ce03328ef5f5a02eee.png",
+    "static/media/codechef__logo.jpg": "/static/media/codechef__logo.cb20c19292ab07021a71.jpg",
+    "static/media/mongodb__logo.png": "/static/media/mongodb__logo.4087cfc00f07d613cfc8.png",
+    "index.html": "/index.html",
+    "main.79e93d3e.css.map": "/static/css/main.79e93d3e.css.map",
+    "main.cf613888.js.map": "/static/js/main.cf613888.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.79e93d3e.css",
+    "static/js/main.cf613888.js"
+  ]
+}
