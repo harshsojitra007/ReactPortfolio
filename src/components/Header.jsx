@@ -55,7 +55,7 @@ const Header = () => {
               </a>
             </li>
             <li className="nav__item">
-              <a href="#projects" className="nav__link">
+              <a href="#coding-profile" className="nav__link">
                 <CodeIcon /> Coding Profiles
               </a>
             </li>
