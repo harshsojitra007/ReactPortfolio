@@ -16,7 +16,7 @@ const profilesList = [
     platform: "Leetcode",
     username: "harsh_sojitra1",
     link: "https://leetcode.com/harsh_sojitra1",
-    description: [`~600 DSA problems solved`, `max rating 1865, top 6%`],
+    description: [`~600 DSA problems solved`, `Knight Badge Holder`, `Max rating 1865(top 5%)`],
     logo: LeetCodeLogo,
   },
   {
