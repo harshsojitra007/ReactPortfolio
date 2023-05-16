@@ -180,7 +180,7 @@ const Projects = () => {
                 target="_blank"
                 className="external__links__live__button"
                 disableElevation
-                href="https://harshsojitra007.github.io/portfolio"
+                href="https://react-portfolio-harsh.vercel.app/"
               >
                 Live
               </Button>
