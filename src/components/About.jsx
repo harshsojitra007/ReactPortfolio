@@ -44,7 +44,7 @@ const About = () => {
             <p className="about__description">
               I'm a pre-final year student. Currently pursuing B.Tech. in
               Computer Engineering from Dharmsinh Desai University, Nadiad. I'm
-              a Full-Stack Dev. enthusiasist working with MERN Stack. I am
+              a Full-Stack Dev. enthusiast working with MERN Stack. I am
               interested in Problem Solving and Competitive Coding as well which
               helps me put my ideas clearly and push me to optimize my coding
               techniques.

@@ -46,10 +46,10 @@ const Home = () => {
                 <div className="home__data">
                   <h1 className="home__title">Hi, I'm Harsh</h1>
                   <h3 className="home__subtitle">
-                    Full-Stack Developer Enthusiasist
+                    Full-Stack Developer Enthusiast
                   </h3>
                   <p className="home__description">
-                    A full-stack developer enthusiasist working with ReactJs,
+                    A full-stack developer enthusiast working with ReactJs,
                     NodeJs, SQL/NoSql Databases, ExpressJs, Java, Spring and
                     having proficiency in Web-Development. Checkout my latest
                     projects for more information about by technicalities.
