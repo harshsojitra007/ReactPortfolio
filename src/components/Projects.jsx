@@ -44,8 +44,8 @@ const Projects = () => {
           </DialogTitle>
 
           <DialogContent>
-            {projectDetails?.description?.map((desc) => (
-              <div className="detailed__project__description__outer">
+            {projectDetails?.description?.map((desc, idx) => (
+              <div key={idx} className="detailed__project__description__outer">
                 <VerifiedRoundedIcon className="color__primary" />
                 <p className="detailed__project__description">{desc}</p>
               </div>
@@ -57,8 +57,8 @@ const Projects = () => {
               <div className="technical__challenges__title">
                 Technical Challenges
               </div>
-              {projectDetails?.technicalChallenges?.map((desc) => (
-                <div className="detailed__project__description__outer">
+              {projectDetails?.technicalChallenges?.map((desc, idx) => (
+                <div key={idx} className="detailed__project__description__outer">
                   <VerifiedRoundedIcon className="color__primary" />
                   <p className="technical__challenges__p">{desc}</p>
                 </div>

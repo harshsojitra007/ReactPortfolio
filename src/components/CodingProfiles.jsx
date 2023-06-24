@@ -16,21 +16,25 @@ const profilesList = [
     platform: "Leetcode",
     username: "harsh_sojitra1",
     link: "https://leetcode.com/harsh_sojitra1",
-    description: [`~600 DSA problems solved`, `Knight Badge Holder`, `Max rating 1865(top 5%)`],
+    description: [
+      `~700 DSA problems solved`,
+      `Knight Badge Holder`,
+      `Max rating 1902(top 4%)`,
+    ],
     logo: LeetCodeLogo,
   },
   {
     platform: "CodeChef",
     username: "harsh_sojitra1",
     link: "https://codechef.com/users/harsh_sojitra1",
-    description: [`~500 problems solved`, `3* rating`],
+    description: [`~500 problems solved`, `1775 rating (3* coder)`],
     logo: CodeChefLogo,
   },
   {
     platform: "Codeforces",
     username: "harshsojitra007",
     link: "https://codeforces.com/profile/harshsojitra007",
-    description: [`newbie at CF`],
+    description: [`newbie at CF`, `1184 rating`],
     logo: CodeForcesLogo,
   },
 ];
@@ -68,7 +72,10 @@ const CodingProfiles = () => {
                   </div>
                   <div className="platform__description">
                     {profile?.description?.map((desc, idx) => (
-                      <div key={idx} className="detailed__project__description__outer">
+                      <div
+                        key={idx}
+                        className="detailed__project__description__outer"
+                      >
                         <VerifiedRounded className="color__primary" />
                         <p className="detailed__project__description">{desc}</p>
                       </div>
